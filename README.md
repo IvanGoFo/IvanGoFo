@@ -4,14 +4,13 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Soy un estudiante de desarrollo de aplicaciones multiplataforma, con intereses en tanto programas como videojuegos.
+Soy un estudiante de desarrollo de aplicaciones multiplataforma, con interes en tanto programar aplicaciones como juegos.
 * **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
+- 🌱 Actualmente estoy aprendiendo ...
   - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+  - SQL
+  - HTML / CSS / XML
+- Aparte de programar, me gusta la musica tanto escucharla como interpretarla. 🎵
 - 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 
 __Check out my GitHub repository:__
