@@ -15,6 +15,3 @@ Soy un estudiante de desarrollo de aplicaciones multiplataforma, con interes en 
 - 📫 Contacta conmigo: <a href="igonzalezforner@gmail.com">igonzalezforner@gmail.com</a>
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
-
-Date: 18/11/2021
