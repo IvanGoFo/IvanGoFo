@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+Soy un estudiante de desarrollo de aplicaciones multiplataforma, con intereses en tanto programas como videojuegos.
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
   - Java
