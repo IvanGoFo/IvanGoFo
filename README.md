@@ -12,6 +12,9 @@ Soy un estudiante de desarrollo de aplicaciones multiplataforma, con interes en 
   - HTML / CSS / XML
     
 - Aparte de programar, me gusta la musica tanto escucharla como interpretarla. 🎵
+
+<img alt="dsmark" align="right" src="https://i.pinimg.com/originals/2d/55/0e/2d550e48e5fabf33543b51e4d8ccb335.gif">
+
 - 📫 Contacta conmigo: <a href="igonzalezforner@gmail.com">igonzalezforner@gmail.com</a>
 
 __Check out my GitHub repository:__
