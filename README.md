@@ -10,8 +10,9 @@ Soy un estudiante de desarrollo de aplicaciones multiplataforma, con interes en 
   - Java
   - SQL
   - HTML / CSS / XML
+    
 - Aparte de programar, me gusta la musica tanto escucharla como interpretarla. 🎵
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- 📫 Contacta conmigo: <a href="igonzalezforner@gmail.com">igonzalezforner@gmail.com</a>
 
 __Check out my GitHub repository:__
 
