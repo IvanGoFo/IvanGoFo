@@ -33,10 +33,8 @@ I am a student of cross-platform program development with interests in programmi
       alt="mysql" width="40" height="40" /> </a> </p>
 
   <h3>Stats :</h3>
-  <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.IvanGoFo.vercel.app/api/top-langs/?username=IvanGoFo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanGoFo&show_icons=true&theme=dark&locale=en&layout=compact" alt="IvanGoFo" /></p>
 
-  </td>
   
 
     
