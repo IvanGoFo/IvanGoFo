@@ -15,7 +15,7 @@ I am a student of cross-platform program development with interests in programmi
 - 📫 Contact me: <a href="igonzalezforner@gmail.com">igonzalezforner@gmail.com</a>
 
 ---------------------------------------------------------------------------------------------------------------------
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages I know my way around:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
