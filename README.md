@@ -34,8 +34,8 @@ I am a student of cross-platform program development with interests in programmi
 
 <h3>Stats :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanGoFo&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="IvanGoFo" 
     bg_color=#808080/></p>      
 
 ---------------------------------------------------------------------------------------------------------------------
