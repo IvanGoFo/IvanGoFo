@@ -14,7 +14,7 @@ I am a student of cross-platform program development with interests in programmi
 - When I'm not working, I enjoy playing video games and listening to music. 🎮 Music is also a passion of mine—I enjoy both listening to it and interpreting it. 🎵
 - 📫 Contact me: <a href="igonzalezforner@gmail.com">igonzalezforner@gmail.com</a>
 
-<h3 align="left">Languages I dabble at:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
