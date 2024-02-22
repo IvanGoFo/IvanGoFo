@@ -37,7 +37,7 @@ I am a student of cross-platform program development with interests in programmi
 
 <a align= "right" href="https://github.com/IvanGoFo">
   <img alt= "stats card" height="150px" width="300" src="https://github-readme-stats.vercel.app/api?username=IvanGoFo&theme=cobalt&show_icons=true&count_private=true" />
-src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 <a align= "left" href="https://github.com/IvanGoFo">
 <img alt= "stats card" height="150px" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanGoFo&show_icons=true&theme=dark&locale=en&layout=compact" alt="IvanGoFo" />
 </a>
