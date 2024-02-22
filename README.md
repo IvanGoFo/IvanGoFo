@@ -33,8 +33,7 @@ I am a student of cross-platform program development with interests in programmi
       alt="mysql" width="40" height="40" /> </a> </p>
 
   <h3>Stats :</h3>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanGoFo&show_icons=true&theme=dark&locale=en&layout=compact" alt="IvanGoFo" /></p>
-
+  [![Ivan GitHub Estadisticas](https://github-readme-stats.vercel.app/api?username=IvanGoFo&theme=dark&show_icons=true)](https://github.com/IvanGofo?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGoFo&layout=compact&langs_count=6&theme=dark&show)](https://github.com/IvanGoFo)
   
 
     
