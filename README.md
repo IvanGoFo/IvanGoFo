@@ -32,11 +32,10 @@ I am a student of cross-platform program development with interests in programmi
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> </p>
 
-  <h3>Stats :-</h3>
+  <h3>Stats :</h3>
   <td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.IvanGoFo.vercel.app/api/top-langs/?username=IvanGoFo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IvanGoFo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
   </td>
   
 
